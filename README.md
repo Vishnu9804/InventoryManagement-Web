@@ -18,5 +18,5 @@ To get started with the Product Management Web Application, follow these steps:
 1. **Clone the Repository:**
 2. *Product Management.zip*
    ```bash
-   git clone https://github.com/your-username/product-management-app.git
-   cd product-management-app
+   https://github.com/Vishnu9804/ProductManagement-Web
+
