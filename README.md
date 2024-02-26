@@ -19,7 +19,6 @@ To get started with the Product Management Web Application, follow these steps:
 ```bash
 https://github.com/Vishnu9804/ProductManagement-Web
 
-2. **Product Management.zip**
    
    
 
