@@ -11,7 +11,7 @@ Welcome to our Product Management Web Application! This application is designed 
 - **Sales Management**: Record and analyze sales data to make informed business decisions.
 - **User Authentication**: Securely control access with user authentication and authorization.
 
-## Installation
+## Use it....
 
 To get started with the Product Management Web Application, follow these steps:
 
